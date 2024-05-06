@@ -35,7 +35,8 @@ body {
         display: none;
     }
     .search button {
-        width: 80px; /* Increase the width for mobile */
+        width: 100px;
+        height: 100px;
     }
 }
 
