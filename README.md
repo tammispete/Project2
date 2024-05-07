@@ -27,8 +27,8 @@ If there was an error message, then after correct input the message will be hidd
 In the HTML I have a Search Button, and I have an event listener to see if it is clicked or if someone presses Enter in the searchbox.
 This will activate the function checkWeather.
 
-As this webapp was created with PC in mind, it is not fully scalable to mobile. I could not, for example get an easy fix the issue with search-button widht.
-I also removed the local time from mobile view, as it was an issue with CORS and I did not like it shown then in the mobile. This was done in CSS.
+As this webapp was created with PC in mind, it is not fully scalable to mobile.
+I removed the local time from mobile view, as it was an issue with CORS and I did not like it shown then in the mobile. This change was done in CSS.
 
 ******* SELF EVALUATION *******
 I feel that this Project meets the given requirements (functionality, comments, css, dynamic events).
